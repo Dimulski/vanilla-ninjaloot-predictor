@@ -1,0 +1,1 @@
+# vanilla-ninjaloot-predictor
