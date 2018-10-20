@@ -1,0 +1,5 @@
+
+- try out solutions for the high imbalance in the data such as over/undersampling
+- ditch accuracy
+- create better visualization and introduction to the data
+- add baseline models
